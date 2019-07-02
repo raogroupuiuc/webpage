@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: Extracellular acidic pH inhibits acetate consumption by decreasing gene transcription of the tricarboxylic acid cycle and the glyoxylate shunt
-  image:
+  image: 2019_james.jpg
   description: ""
   authors: Orr JS, Christensen DG, Wolfe AJ, Rao CV
   link:
@@ -35,7 +35,7 @@
   highlight: 0
 
 - title: Driving the expression of the Salmonella enterica sv Typhimurium flagellum using flhDC from <em>Escherichia coli</em> results in key regulatory and cellular differences
-  image:
+  image: 2018_salmonella.png
   description: ""
   authors: Albanna A, Sim M, Hoskisson PA, Gillespie C, Rao CV &  Aldridge PD
   link:
@@ -44,7 +44,7 @@
   highlight: 1
 
 - title: Microbial conversion of xylose into useful bioproducts
-  image:
+  image: 2018_sujit.png
   description: ""
   authors: Jagtap SS, Rao CV
   link:
@@ -158,7 +158,7 @@
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/27002479
     display: Biotechnology and Bioengineering (2016)
-  highlight: 1
+  highlight: 0
 
 - title: Collective Space-Sensing Coordinates Pattern Scaling in Engineered Bacteria
   image:
@@ -243,13 +243,13 @@
   highlight: 0
 
 - title: Interactions among the three adaptation systems of <em>Bacillus subtilis</em> chemotaxis as revealed by an <em>in vitro</em> receptor-kinase assay
-  image:
+  image: 2014_subtilis.gif
   description: ""
   authors: Walukiewicz HE, Tohidifar P, Ordal GW, Rao CV
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/25039821
     display: Molecular Microbiology (2014)
-  highlight: 0
+  highlight: 1
 
 - title: Expression of a xylose-specific transporter improves ethanol production by metabolically engineered <em>Zymomonas mobilis</em>
   image:
@@ -657,7 +657,7 @@
   highlight: 0
 
 - title: Control, exploitation and tolerance of intracellular noise
-  image:
+  image: 2002_noise.PNG
   description: ""
   authors: Rao CV, Wolf DM, Arkin AP
   link:
