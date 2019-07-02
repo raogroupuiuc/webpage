@@ -1,0 +1,729 @@
+- title: Global lysine acetylation in <em>Escherichia coli</em> results from growth conditions that favor acetate fermentation
+  image:
+  description: ""
+  authors: Schilling B, Basisty N, Christensen DG, Sorensen D, Orr JS, Wolfe AJ, Rao CV
+  link:
+    url: https://jb.asm.org/content/201/9/e00768-18.abstract
+    display: Journal of Bacteriology (2019)
+  highlight: 0
+
+- title: pH selectively regulates citric acid and lipid production in <em>Yarrowia lipolytica</em> W29 during nitrogen-limited growth on glucose
+  image:
+  description: ""
+  authors: Zhang S, Jagtap SS, Deewan A, Rao CV
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0168165618306539
+    display: Journal of Biotechnology (2019)
+  highlight: 1
+
+- title: Extracellular acidic pH inhibits acetate consumption by decreasing gene transcription of the tricarboxylic acid cycle and the glyoxylate shunt
+  image:
+  description: ""
+  authors: Orr JS, Christensen DG, Wolfe AJ, Rao CV
+  link:
+    url: https://jb.asm.org/content/201/2/e00410-18.abstract
+    display: Journal of Bacteriology (2019)
+  highlight: 1
+
+- title: A comprehensive genome-scale model for <em>Rhodosporidium toruloides</em> IFO0880 accounting for functional genomics and phenotypic data
+  image:
+  description: ""
+  authors: Dinh HV, Suthers PF, Chan SHJ, Shen Y, Xiao T, Deewan A, Jagtap SS, Rabinowitz JD, Rao CV, Zhao H, Maranas CD
+  link:
+    url: https://www.biorxiv.org/content/10.1101/594846v1.abstract
+    display: BioRxiv (2019)
+  highlight: 0
+
+- title: Driving the expression of the Salmonella enterica sv Typhimurium flagellum using flhDC from <em>Escherichia coli</em> results in key regulatory and cellular differences
+  image:
+  description: ""
+  authors: Albanna A, Sim M, Hoskisson PA, Gillespie C, Rao CV &  Aldridge PD
+  link:
+    url: https://www.nature.com/articles/s41598-018-35005-2
+    display: Scientific Reports (2018)
+  highlight: 1
+
+- title: Microbial conversion of xylose into useful bioproducts
+  image:
+  description: ""
+  authors: Jagtap SS, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-018-9294-9
+    display: Applied Microbiology and Biotechnology (2018)
+  highlight: 1
+
+- title: Regulation of metabolism in <em>Escherichia coli</em> during growth on mixtures of the non-glucose sugars - arabinose, lactose, and xylose
+  image:
+  description: ""
+  authors: Ammar EM, Wang X, Rao CV
+  link:
+    url: https://www.nature.com/articles/s41598-017-18704-0
+    display: Scientific Reports (2018)
+  highlight: 0
+
+- title: Production of D-arabitol from D-xylose by the oleaginous yeast <em>Rhodosporidium toruloides</em> IFO0880
+  image:
+  description: ""
+  authors: Jagtap SS, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-017-8581-1
+    display: Applied Microbiology and Biotechnology (2018)
+  highlight: 0
+
+- title: Ancient regulatory role of lysine acetylation in central metabolism
+  image:
+  description: ""
+  authors: Nakayasu ES, Burnet MC, Walukiewicz HE, Wilkins CS, Shukla AK, Brooks S, Plutz MJ, Lee BD, Schilling B, Wolfe AJ, Müller S, Kirby JR, Rao CV, Cort JR, Payne SH
+  link:
+    url: https://mbio.asm.org/content/8/6/e01894-17.short
+    display: mBio (2017)
+  highlight: 0
+
+- title: Exploiting fine-scale genetic and physiological variation of closely related microbes to reveal unknown enzyme functions
+  image:
+  description: ""
+  authors: Badur AH, Plutz MJ, Yalamanchili G, Jagtap SS, Schweder T, Unfried F, Markert S, Polz MF, Hehemann JH, Rao CV
+  link:
+    url: http://www.jbc.org/content/292/31/13056.long
+    display: Journal of Biological Chemistry (2017)
+  highlight: 0
+
+- title: Sparsity of Linear Discrete-Time Optimal Control Problems With l_1 Objectives
+  image:
+  description: ""
+  authors: Rao CV
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7993042
+    display: IEEE Transactions on Automatic Control (2017)
+  highlight: 0
+
+- title: Increasing growth yield and decreasing acetylation in <em>Escherichia coli</em> by optimizing the carbon-to-magnesium Ratio in peptide-based media
+  image:
+  description: ""
+  authors: Christensen DG, Orr JS, Rao CV, Wolfe AJ
+  link:
+    url: https://aem.asm.org/content/83/6/e03034-16.long
+    display: Applied and Environmental Microbiology (2017)
+  highlight: 0
+
+- title: Growth rate control of flagellar assembly in <em>Escherichia coli</em> strain RP437
+  image:
+  description: ""
+  authors: Sim M, Koirala S, Picton D, Strahl H, Hoskisson PA, Rao CV, Gillespie CS, Aldridge PD
+  link:
+    url: https://www.nature.com/articles/srep41189
+    display: Scientific reports (2017)
+  highlight: 0
+
+- title: Metabolic engineering of the oleaginous yeast <em>Rhodosporidium toruloides</em> IFO0880 for lipid overproduction during high-density fermentation
+  image:
+  description: ""
+  authors: Zhang S, Ito M, Skerker M, Arkin AP, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-016-7815-y
+    display: Applied Microbiology and Biotechnology (2016)
+  highlight: 0
+
+- title: Production of 1-decanol by metabolically engineered <em>Yarrowia lipolytica</em>
+  image:
+  description: ""
+  authors: Rutter CD, Rao CV
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1096717616300659
+    display: Metabolic Engineering (2016)
+  highlight: 0
+
+- title: Metabolic engineering of a probiotic <em>Saccharomyces boulardii</em>
+  image:
+  description: ""
+  authors: Liu JJ, Kong II, Zhang GC, Jayakody LN, Kim H, Xia PF, Kwak S, Sung BH, Sohn JH, Walukiewicz HE, Rao CV, Jin YS
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/26850302
+    display: Applied and Environmental Microbiology (2016)
+  highlight: 0
+
+- title: Stokes trap for multiplexed particle manipulation and assembly using fluidics
+  image:
+  description: ""
+  authors: Shenoy A, Rao CV, Schroeder CM
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27035979
+    display: Proceedings of the National Academy of Sciences (2016)
+  highlight: 0
+
+- title: Evolutionary engineering of <em>Geobacillus thermoglucosidasius</em> for improved ethanol production
+  image:
+  description: ""
+  authors: Zhou J, Wu K, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27002479
+    display: Biotechnology and Bioengineering (2016)
+  highlight: 1
+
+- title: Collective Space-Sensing Coordinates Pattern Scaling in Engineered Bacteria
+  image:
+  description: ""
+  authors: Cao Y, Ryser MD, Payne S, Li B, Rao CV, You L
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27104979
+    display: Cell (2016)
+  highlight: 0
+
+- title: Development and physiological characterization of cellobiose-consuming <em>Yarrowia lipolytica</em>
+  image:
+  description: ""
+  authors: Lane S, Zhang S, Wei N, Rao C, Jin YS
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/bit.25499/abstract
+    display: Biotechnology and Bioengineering (2015)
+  highlight: 0
+
+
+- title: Alginate lyases from alginate-degrading <em>Vibrio splendidus</em> 12B01 are endolytic
+  image:
+  description: ""
+  authors: Badur AH, Jagtap SS, Yalamanchili G, Lee JK, Zhao H, Rao CV
+  link:
+    url: https://aem.asm.org/content/81/5/1865
+    display: Applied and Environmental Microbiology (2015)
+  highlight: 0
+
+- title: High-throughput sequencing reveals adaptation-induced mutations in pentose-fermenting strains of <em>Zymomonas mobilis</em>
+  image:
+  description: ""
+  authors: Dunn KL, Rao CV
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/bit.25631/abstract
+    display: Biotechnology and Bioengineering (2015)
+  highlight: 0
+
+- title: Engineering <em>Yarrowia lipolytica</em> for production of medium-chain fatty acids
+  image:
+  description: ""
+  authors: Rutter CD, Zhang S, Rao CV
+  link:
+    url: http://link.springer.com/article/10.1007%2Fs00253-015-6764-1
+    display: Applied Microbiology and Biotechnology (2015)
+  highlight: 0
+
+- title: Engineering <em>Rhodosporidium toruloides</em> for increased lipid production
+  image:
+  description: ""
+  authors: Zhang S, Skerker JM, Rutter CD, Maurer MJ, Arkin AP, Rao CV
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/bit.25864/abstract
+    display: Biotechnology and Bioengineering (2015)
+  highlight: 0
+
+- title: Reciprocal regulation of l-Arabinose and d-Xylose Metabolism in <em>Escherichia coli</em>
+  image:
+  description: ""
+  authors: Koirala S, Wang X, Rao CV
+  link:
+    url: http://jb.asm.org/content/198/3/386.long
+    display: Journal of Bacteriology (2015)
+  highlight: 0
+
+- title: A nutrient-tunable bistable switch controls motility in <em>Salmonella enterica</em> serovar Typhimurium
+  image:
+  description: ""
+  authors: Koirala S, Mears P, Sim M, Golding I, Chemla YR, Aldridge PD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25161191
+    display: mBio (2014)
+  highlight: 0
+
+- title: Black and white with some shades of grey - the diverse responses of inducible metabolic pathways in <em>Escherichia coli</em>
+  image:
+  description: ""
+  authors: Rao CV, Koirala S
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25069377
+    display: Molecular Microbiology (2014)
+  highlight: 0
+
+- title: Interactions among the three adaptation systems of <em>Bacillus subtilis</em> chemotaxis as revealed by an <em>in vitro</em> receptor-kinase assay
+  image:
+  description: ""
+  authors: Walukiewicz HE, Tohidifar P, Ordal GW, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25039821
+    display: Molecular Microbiology (2014)
+  highlight: 0
+
+- title: Expression of a xylose-specific transporter improves ethanol production by metabolically engineered <em>Zymomonas mobilis</em>
+  image:
+  description: ""
+  authors: Dunn KL, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24839214
+    display: Applied Microbiology and Biotechnology (2014)
+  highlight: 0
+
+- title: Oscillatory behavior of neutrophils under opposing chemoattractant gradients supports a winner-take-all mechanism
+  image:
+  description: ""
+  authors: Byrne MB, Kimura Y, Kapoor A, He Y, Mattam KS, Hasan KM, Olson LN, Wang F,Kenis PJ, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24465668
+    display: PLoS One (2014)
+  highlight: 0
+
+- title: A tale of two machines - a review of the BLAST meeting, Tucson, AZ, 20-24 January 2013
+  image:
+  description: ""
+  authors: Glekas GD, Cates JR, Cohen TM, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24125587
+    display: Molecular Microbiology (2014)
+  highlight: 0
+
+- title: <em>Escherichia coli</em> swimming is robust against variations in flagellar number
+  image:
+  description: ""
+  authors: Mears PJ, Koirala S, Rao CV, Golding I, Chemla YR
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24520165
+    display: eLife (2014)
+  highlight: 0
+
+- title: Exploiting market fluctuations and price volatility through feedback control
+  image:
+  description: ""
+  authors: Rao CV
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0098135412001986
+    display: Computers and Chemical Engineering (2013)
+  highlight: 0
+
+- title: Mammalian target of rapamycin and Rictor control neutrophil chemotaxis by regulating Rac/Cdc42 activity and the actin cytoskeleton
+  image:
+  description: ""
+  authors: He Y, Li D, Cook SL, Yoon MS, Kapoor A, Rao CV, Kenis PJ, Chen J, Wang F
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24006489
+    display: Molecular Biology of the Cell (2013)
+  highlight: 0
+
+- title: The importance of the interaction of CheD with CheC and the chemoreceptors compared to its enzymatic activity during chemotaxis in <em>Bacillus subtilis</em>
+  image:
+  description: ""
+  authors: Yuan W, Glekas GD, Allen GM, Walukiewicz HE, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/23226535
+    display: PLoS One (2012)
+  highlight: 0
+
+- title: The <em>Bacillus subtilis</em> chemoreceptor McpC senses multiple ligands using two discrete mechanisms
+  image:
+  description: ""
+  authors: Glekas GD, Mulhern BJ, Kroc A, Duelfer KA, Lei V, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/23038252
+    display: Journal of Biological Chemistry (2012)
+  highlight: 0
+
+- title: Identification and analysis of the putative pentose sugar efflux transporters in <em>Escherichia coli</em>
+  image:
+  description: ""
+  authors: Koita K, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/22952739
+    display: PLoS One (2012)
+  highlight: 0
+
+- title: Elucidation of the multiple roles of CheD in <em>Bacillus subtilis</em> chemotaxis
+  image:
+  description: ""
+  authors: Glekas GD, Plutz MJ, Walukiewicz HE, Allen GM, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/22931217
+    display: Molecular Microbiology (2012)
+  highlight: 0
+
+- title: Transcriptional cross talk within the <em>mar-sox-rob</em> regulon in <em>Escherichia coli</em> is limited to the <em>rob</em> and <em>marRAB</em> operons
+  image:
+  description: ""
+  authors: Chubiz LM, Glekas GD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/22753060
+    display: Journal of Bacteriology (2012)
+  highlight: 0
+
+- title: Computational methods in synthetic biology - towards computer-aided part design
+  image:
+  description: ""
+  authors: Wu K, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/22727029
+    display: Current Opinion in Chemical Biology (2012)
+  highlight: 0
+
+- title: Expanding the synthetic biology toolbox - engineering orthogonal regulators of gene expression
+  image:
+  description: ""
+  authors: Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/22727029
+    display: Current Opinion in Biotechnology (2012)
+  highlight: 0
+
+- title: The non-receptor tyrosine kinase Lyn controls neutrophil adhesion by recruiting the CrkL-C3G complex and activating Rap1 at the leading edge
+  image:
+  description: ""
+  authors: He Y, Kapoor A, Cook S, Liu S, Xiang Y, Rao CV, Kenis PJ, Wang F
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/21628423
+    display: Journal of Cell Science (2011)
+  highlight: 0
+
+- title: Cellular Stoichiometry of the Chemotaxis proteins in <em>Bacillus subtilis</em>
+  image:
+  description: ""
+  authors: Cannistraro VJ, Glekas GD, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/21515776
+    display: Journal of Bacteriology (2011)
+  highlight: 0
+
+- title: Role of the mar-sox-rob regulon in regulating outer membrane porin expression
+  image:
+  description: ""
+  authors: Chubiz L, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/21398557
+    display: Journal of Bacteriology (2011)
+  highlight: 0
+
+- title: Continuous control of flagellar gene expression by the σ28–FlgM regulatory circuit in <em>Salmonella enterica</em>
+  image:
+  description: ""
+  authors: Saini S, Floess E, Aldridge C, Brown J, Aldridge PD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/21166907
+    display: Molecular Microbiology (2011)
+  highlight: 0
+
+- title: Attractant binding induces distinct structural changes to the polar and lateral signaling clusters in <em>Bacillus subtilis</em> chemotaxis
+  image:
+  description: ""
+  authors: Wu K, Walukiewicz HE, Glekas GD, Ordal GW, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/21098025
+    display: Journal of Biological Chemistry (2011)
+  highlight: 0
+
+- title: Site-specific methylation in <em>Bacillus subtilis</em> chemotaxis - The effect of covalent modifications to the chemotaxis receptor McpB
+  image:
+  description: ""
+  authors: Glekas GD, Cates JR, Cohen TM, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20864474
+    display: Microbiology (2011)
+  highlight: 0
+
+- title: The interaction dynamics of a negative feedback loop regulates flagellar number in <em>Salmonella enterica</em> serovar Typhimurium
+  image:
+  description: ""
+  authors: Aldridge C, Poonchareon K, Saini S, Soloyva A, Rao CV, Imada K, Minamino T, Aldridge PD
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/21143315
+    display: Molecular Microbiology (2010)
+  highlight: 0
+
+- title: FliZ Induces a Kinetic Switch in Flagellar Gene Expression
+  image:
+  description: ""
+  authors: Saini S, Koirala S, Floess E, Mears PJ, Chemla YR, Golding I, Aldridge C, Aldridge PD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20935096
+    display: Journal of Bacteriology (2010)
+  highlight: 0
+
+- title: Role of cross talk in regulating the dynamic expression of the flagellar <em>Salmonella</em> pathogenicity island 1 and type 1 fimbrial genes
+  image:
+  description: ""
+  authors: Saini S, Slauch JM, Aldridge PD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20833811
+    display: Journal of Bacteriology (2010)
+  highlight: 0
+
+- title: The role of coupled positive feedback in the expression of the SPI1 type three secretion system in <em>Salmonella</em>
+  image:
+  description: ""
+  authors: Saini S, Ellermeier JR, Slauch JM, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20686667
+    display: PLoS Pathogens (2010)
+  highlight: 0
+
+- title: Aromatic acid metabolites of <em>Escherichia coli</em> K-12 can induce the <em>marRAB</em> operon
+  image:
+  description: ""
+  authors: Chubiz LM, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20639340
+    display: Journal of Bacteriology (2010)
+  highlight: 0
+
+- title: SprB is the molecular link between <em>Salmonella</em> pathogenicity island 1 (SPI1) and SPI4
+  image:
+  description: ""
+  authors: Saini S, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20190046
+    display: Journal of Bacteriology (2010)
+  highlight: 0
+
+- title: A modular positive feedback-based gene amplifier
+  image:
+  description: ""
+  authors: Nistala GJ, Wu K, Rao CV, Bhalerao KD
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20187959
+    display: Journal of Biological Engineering (2010)
+  highlight: 0
+
+- title: The role of configuration and coupling in autoregulatory gene circuits
+  image:
+  description: ""
+  authors: Wu K, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20025666
+    display: Molecular Microbiology (2010)
+  highlight: 0
+
+- title: Regulation of arabinose and xylose metabolism in <em>Escherichia coli</em>
+  image:
+  description: ""
+  authors: Desai TD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20023096
+    display: Applied and Environmental Microbiology (2010)
+  highlight: 0
+
+- title: A PAS domain binds asparagine in the chemotaxis receptor McpB in <em>Bacillus subtilis</em>
+  image:
+  description: ""
+  authors: Glekas GD, Foster RM, Cates JR, Estrella JA, Wawrzyniak MJ, Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/19864420
+    display: Journal of Biological Chemistry (2010)
+  highlight: 0
+
+- title: High-resolution, long-term characterization of bacterial motility using optical tweezers
+  image:
+  description: ""
+  authors: Min TL, Mears PJ, Chubiz LM, Rao CV, Golding I, Chemla YR
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/19801991
+    display: Nature Methods (2009)
+  highlight: 0
+
+- title: The molecular basis of excitation and adaptation during chemotactic sensory transduction in bacteria
+  image:
+  description: ""
+  authors: Rao CV, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/19494578
+    display: Contributions to Microbiology (2009)
+  highlight: 0
+
+- title: Engineering transcription factors with novel DNA-binding specificity using comparative genomics
+  image:
+  description: ""
+  authors: Desai TA, Rodionov DA, Gelfand MS, Alm EJ, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/19264798
+    display: Nucleic Acids Research (2009)
+  highlight: 0
+
+- title: Role of FimW, FimY, and FimZ in regulating the expression of type i fimbriae in <em>Salmonella enterica</em> serovar Typhimurium
+  image:
+  description: ""
+  authors: Saini S, Pearl JA, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/19218381
+    display: Journal of Bacteriology (2009)
+  highlight: 0
+
+- title: Calling heads from tails - the role of mathematical modeling in understanding cell polarization
+  image:
+  description: ""
+  authors: Onsum MD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/19167872
+    display: Current Opinions in Cell Biology (2009)
+  highlight: 0
+
+- title: The rate of protein secretion dictates the temporal dynamics of flagellar gene expression
+  image:
+  description: ""
+  authors: Brown JD, Saini S, Aldridge C, Herbert J, Rao CV, Aldridge PD
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/18811728
+    display: Molecular Microbiology (2008)
+  highlight: 0
+
+- title: The three adaptation systems of <em>Bacillus subtilis chemotaxis</em>
+  image:
+  description: ""
+  authors: Rao CV, Glekas GD, Ordal GW
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/18774298
+    display: Trends in Microbiology (2008)
+  highlight: 0
+
+- title: Computational design of orthogonal ribosomes
+  image:
+  description: ""
+  authors: Chubiz LM, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/18522973
+    display: Nucleic Acids Research (2008)
+  highlight: 0
+
+- title: FliZ Is a posttranslational activator of FlhD4C2-dependent flagellar gene expression
+  image:
+  description: ""
+  authors: Saini S, Brown JD, Aldridge PD, Rao CV
+  link:
+    url: https://jb.asm.org/content/190/14/4979.long
+    display: Journal of Bacteriology (2008)
+  highlight: 0
+
+- title: The <em>Salmonella</em> SPI1 type three secretion system responds to periplasmic disulfide bond status via the flagellar apparatus and the RcsCDB system
+  image:
+  description: ""
+  authors: Lin D, Rao CV, Slauch JM
+  link:
+    url: https://jb.asm.org/content/190/1/87.long
+    display: Journal of Bacteriology (2008)
+  highlight: 0
+
+- title: A mathematical model for neutrophil gradient sensing and polarization
+  image:
+  description: ""
+  authors: Onsum MD, Rao CV
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/17367201
+    display: PLoS Computational Biology (2007)
+  highlight: 0
+
+- title: Phosphatase localization in bacterial chemotaxis - divergent mechanisms, convergent principles
+  image:
+  description: ""
+  authors: Rao CV, Kirby JR, Arkin AP
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/16224120
+    display: Physical Biology (2005)
+  highlight: 0
+
+- title: An allosteric model for transmembrane signaling in bacterial chemotaxis
+  image:
+  description: ""
+  authors: Rao CV, Frenklach M, Arkin AP
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022283604010265
+    display: Journal of Molecular Biology (2004)
+  highlight: 0
+
+- title: Design and diversity in bacterial chemotaxis - a comparative study in <em>Escherichia coli</em> and <em>Bacillus subtilis</em>
+  image:
+  description: ""
+  authors: Rao CV, Kirby JR, Arkin AP
+  link:
+    url: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020049
+    display: PLoS Biology (2004)
+  highlight: 0
+
+- title: Stochastic chemical kinetics and the quasi-steady-state assumption - Application to the Gillespie algorithm
+  image:
+  description: ""
+  authors: Rao CV, Kirby JR, Arkin AP
+  link:
+    url: https://aip.scitation.org/doi/10.1063/1.1545446
+    display: Journal of Chemical Physics (2003)
+  highlight: 0
+
+- title: Constrained state estimation for nonlinear discrete-time systems - stability and moving horizon approximations
+  image:
+  description: ""
+  authors: Rao CV, Rawlings JB, Mayne DQ
+  link:
+    url: https://ieeexplore.ieee.org/document/1178905
+    display: IEEE Transactions on Automatic Control (2003)
+  highlight: 0
+
+- title: Control, exploitation and tolerance of intracellular noise
+  image:
+  description: ""
+  authors: Rao CV, Wolf DM, Arkin AP
+  link:
+    url: https://www.nature.com/articles/nature01258
+    display: Nature (2002)
+  highlight: 1
+
+- title: Constrained process monitoring - A moving horizon approach
+  image:
+  description: ""
+  authors: Rao CV, Rawlings JB
+  link:
+    url: https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690480111
+    display: AIChE Journal (2002)
+  highlight: 0
+
+- title: Control motifs for intracellular regulatory networks
+  image:
+  description: ""
+  authors: Rao CV, Arkin AP
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/11447069
+    display: Annual Reviews in Biomedical Engineering (2001)
+  highlight: 0
+
+- title: Constrained linear state estimation - a moving horizon approach
+  image:
+  description: ""
+  authors: Rao CV, Rawlings JB, Lee JH
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0005109801001157
+    display: Automatica (2001)
+  highlight: 0
+
+- title: Constrained Model Predictive Control - Stability and optimality
+  image:
+  description: ""
+  authors: Mayne DQ, Rawlings JB, Rao CV, Scokaert POM
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0005109899002149
+    display: Automatica (2000)
+  highlight: 0
+
+- title: Linear Programming and Model Predictive Control
+  image:
+  description: ""
+  authors: Rao CV, Rawlings JB
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0959152499000347
+    display: Journal of Process Control (2000)
+  highlight: 0
+
+- title: Steady states and constraints in model predictive control
+  image:
+  description: ""
+  authors: Rao CV, Rawlings JB
+  link:
+    url: https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690450612
+    display: AIChE Journal (1999)
+  highlight: 0
+
+- title: Application of Interior-Point Methods to Model Predictive Control
+  image:
+  description: ""
+  authors: Rao CV, Wright SJ, Rawlings JB
+  link:
+    url: https://link.springer.com/article/10.1023%2FA%3A1021711402723
+    display: Journal of Optimization Theory and Applications (1998)
+  highlight: 0
