@@ -54,13 +54,15 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (>= 3.6.3)
+  jekyll (~> 3.8.5)
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.17.2
