@@ -64,9 +64,9 @@
   photo: xiaoyi.jpg
   info: Ph.D. Candidate, started 2014
   email: wang365[at]illinois.edu
-  number_educ: 1
-  education1: B.S., Chemical Engineering, University of Wisconsin Madison, 2014
-  education2:
+  number_educ: 2
+  education1: Research interests: Sugar utilization and regulation in <em>Escherichia coli</em>, flagellar gene expression and regulation in <em>Salmonella enterica</em>, and fatty acid and lipid production and optimization in <em>Yarrowia lipolytica</em>
+  education2: B.S., Chemical Engineering, University of Wisconsin Madison, 2014
   education3:
   education4:
 
@@ -130,7 +130,7 @@
 - name: Selwan
   photo: selwan.png
   info: Visiting Scholar, started 2018
-  email:
+  email: shamed[at]illinois.edu
   number_educ: 1
   education1:
   education2:
