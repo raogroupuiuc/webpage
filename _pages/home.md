@@ -16,7 +16,7 @@ We are a synthetic and systems biology research group at the [University of Illi
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carosel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -52,9 +52,10 @@ Our lab studies how cells process information. We are especially interested in u
 
 We are also engineering bacteria and yeast for the production of biofuels. Specifically, our goal is to optimize the uptake and metabolism of C5/C6 sugars in bacteria by developing new genetic tools.
 
-We are grateful for funding from Illinois, [] and [].
+We are grateful for funding from Illinois, Department of Energy and Shell.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gse.jpg" style="width: 320px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cabbi.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/doe1.png" style="width: 100px">
 </figure>

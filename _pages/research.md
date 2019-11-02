@@ -15,33 +15,35 @@ Key areas of research:
 3. [Methanotrops](#Methanotrops)
 4. [Virulence](#virulence)
 5. [Plastic degradation](#plastics degradation)
+6. [Computational biology](#computational biology)
 
 
 
 
 ### Chemotaxis
+![]({{ site.url }}{{ site.baseurl }}/images/respic/chemotaxis.jpg){: style="width: 300px; float: right; border: 10px"}
+
+Our lab in collaboration with George Ordal is investigating chemotaxis in the model Gram-positive bacterium <i>Bacillus subtilis</i>. While <i>Escherichia coli</i> has long been the paradigm for bacterial chemotaxis, the pathway architecture is not conserved in other species of bacteria. Interestingly, <i>B. subtilis</i> behaves in an identical manner to <i>E. coli</i> with regards to chemotaxis. The pathways in the two bacteria also have homologous proteins. Yet, how these proteins are “wired” to one another in the two pathways is entirely different. We seek to understand why these two pathways are “wired” differently and the extent of degeneracy in the basic design.
 
 ### Oleaginous yeast
 
-### Methanotrops
+We have worked with different yeasts like <i> Yarrowia lipolytica</i>, <i> Rhodosporidium toruloides</i>, and <i>Lipomyces starkeyi </i>, which can get "fat" by storing lipids inside the cell.  We have been engineering these oleaginous yeasts for the production of valuable oleochemicals from plant-based sugars. We are also interested in understanding the mechanisms of substrate utilization and identifying key genes and metabolites within lipogenic pathways.
+
+### Methanotrophs
+
+Methane emission into the atmosphere has negative consequences, as it is a greenhouse gas with approximately 20 times the impact of carbon dioxide. Methanotrophs use methane as their sole carbon source and convert methane into cellular components or transform it into valuable products. Biological processes utilizing these microorganisms may provide a more economical alternative to existing gas-to liquid conversion processes (e.g. Fischer-Tropsch), because they are less capital intensive, do not require extreme operating conditions, and can potentially be deployed at smaller scale to capture remote gas.   Our lab is working on production of value added chemicals using methane as a substrate. Our main goal is to optimize mass transfer rate and methane uptake by methanotrophs using lab scale bioreactors to convert maximum methane into biomass and valuable products.
 
 ### Virulence
 
+Salmonella is the causative agent for a wide range of diseases in humans, including gastroenteritis and enteric fever. Worldwide, Salmonella is estimated to cause over sixteen million cases of typhoid fever, resulting in approximately six hundred thousand deaths, and over one billion cases of acute gastroenteritis, resulting in approximately three million deaths, each year. Over five hundred genes in Salmonella are directly involved in pathogenesis. Yet, only a subset of these is expressed at a given time. Currently, an integrated model for differential gene expression is lacking. To address this problem, our lab in collaboration with Jim Slauch investigating how Salmonella dynamically regulates gene expression during the different phases of the infection cycle. By characterizing how these genes are coordinately expressed and regulated, we aim to understand the infection process and, more importantly, discover novel targets for antibiotics.
+
 ### Plastics degradation
 
-### content from old site - to be deleted
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+One of the major issues faced by the modern world is the threat presented by plastic pollution. Only approximately 30% of all 8.5 billion tons of plastics ever produced is still in use, with the remainder ending up in landfill or the environment, being incinerated, or recycled into secondary and tertiary grade polymers. At best ,post-consumer plastic is an eyesore and uses up land that could be used for more lucrative purposes. When burned, it releases toxic volatile compounds that cause illness in humans and wildlife when inhaled. In the environment it kills thousands of wildlife when they ingest or become entangled in it, harbors flora and fauna that can float to new environments where they can become invasive, and can trap toxic compounds that can biomagnify as organisms of succeedingly higher trophic levels consume lower level organisms. Plastics are prized for their stability and durability in their respective applications; these same characteristics render them difficult to degrade under normal environmental circumstances. Coupled with their cheap and easy production capacity, and their utility in single use applications, the scale of plastic pollution has reached levels never before seen and presents a serious issue to the health of our cities and environment.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high?
+In the Rao lab, we work on techniques to engineer proteins, organisms, and microbial communities to overcome limitations in plastic degradation. We investigate the ability of organisms to sense and migrate towards plastic particles in their environment, the overproduction and secretion of plastic-degrading enzymes in close proximity to these plastics, and the improved performance of plastic-degrading enzymes to degrade plastics on effective time scales.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+### Computational biology
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms.

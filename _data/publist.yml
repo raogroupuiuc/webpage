@@ -1,3 +1,21 @@
+- title: Production of galactitol from galactose by the oleaginous yeast <em>Rhodosporidium toruloides</em> IFO0880
+  image:
+  description: ""
+  authors: Jagtap SS, Bedekar AA, Liu JJ, Jin YS, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1186/s13068-019-1586-5
+    display: Biotechnology for Biofuels (2019)
+  highlight: 0
+
+- title: Synergistic action of SPI-1 gene expression in <em>Salmonella enterica</em> serovar typhimurium through transcriptional crosstalk with the flagellar system
+  image: spi1.png
+  description: ""
+  authors: Hamed S, Wang X, Shawky RM, Emara M, Aldridge PD, Rao CV
+  link:
+    url: https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-019-1583-7
+    display: BMC Microbiology (2019)
+  highlight: 1
+
 - title: Global lysine acetylation in <em>Escherichia coli</em> results from growth conditions that favor acetate fermentation
   image:
   description: ""

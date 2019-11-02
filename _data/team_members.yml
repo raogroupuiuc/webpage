@@ -82,19 +82,19 @@
   photo: Anshu.jpg
   info: Ph.D. Candidate, started 2016
   email: deewan2[at]illinois.edu
-  number_educ: 2
-  education1: B.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2012
-  education2: Product Development Manager, Homecare, Unilever R&D, 2012 - 16
-  education3:
+  number_educ: 3
+  education1: Research focus - Bioinformatics and Computational Biology, studying the ability of cells to get "fat"
+  education2: B.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2012
+  education3: Product Development Manager, Homecare, Unilever R&D, 2012 - 16
   education4:
 
 - name: Girija Bodhankar
   photo: girija.jpeg
   info: Ph.D. Candidate, started 2016
   email: bodhank2[at]illinois.edu
-  number_educ: 1
-  education1: B.Tech., Institute of Chemical Technology, Mumbai, 2016
-  education2:
+  number_educ: 2
+  education1: Research focus - Chemotaxis, why <em?Subtilis</em> swims away from some chemicals
+  education2: B.Tech., Institute of Chemical Technology, Mumbai, 2016
   education3:
   education4:
 
@@ -138,13 +138,12 @@
   education3:
   education4:
 
-
-- name: "This could be you !"
-  photo: rock.jpeg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
+- name: Ebin Joseph
+  photo: ebin.jpg
+  info: Graduate student, started 2019
+  email: ejosep8[at]illinois.edu
+  number_educ: 1
+  education1: B.S., Chemical Engineering, University of Illinois at Chicago, 2019
   education2:
   education3:
   education4:
