@@ -11,7 +11,7 @@ email: deewan2@illinois.edu
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the research group website of Dr. Christopher V. Rao. We are a systems and synthetic biology group ath the University of Illinois at Urbana-Champaign (UIUC). We are a part of the Department of Chemical and Biomolecular Engineering (ChBE) and affilated with Carl R. Woese Institute for Genomic Biology (IGB), Carle Illinois College of Medicine, and Beckman Institute for Advanced Science and Technology.
 baseurl: "/webpage"
-url: "https://anshudeewan.github.io"
+url: "https://raogroupuiuc.github.io" 
 
 include:
   - .htaccess
