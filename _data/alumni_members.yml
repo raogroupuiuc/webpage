@@ -1,31 +1,9 @@
 - name: Tasha Desai
   photo: tasha.png
-  duration:
-  info:
+  duration: Ph. D., 2004 - 09
+  info: Adjunct Professor at Rio Salado College
   email:
-  number_educ: 1
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: James Orr
-  photo: james1.png
-  duration: 2012 - 19
-  info:
-  email: jsorr3[at]illinois.edu
-  number_educ: 2
-  education1: B.S., Chemical Engineering, The Ohio State University, 2012
-  education2: Ph.D. in Chemical Engineering, UIUC, 2012 - 19
-  education3:
-  education4:
-
-- name: Supreet Saini
-  photo: supreet.png
-  duration:
-  info:
-  email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -33,10 +11,10 @@
 
 - name: Lon Chubiz
   photo: lon.png
-  duration:
-  info:
+  duration: Ph. D., 2004 - 10
+  info: Assistant Professor at University of Missouri - St. Louis
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -44,10 +22,22 @@
 
 - name: Kang Wu
   photo: kang.png
-  duration:
-  info:
+  duration: Ph. D., 2004 - 10
+  info: Assistant Professor at University of New Hampshire
   email:
-  number_educ: 1
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+
+- name: Supreet Saini
+  photo: supreet.png
+  duration: Ph. D., 2005 - 10
+  info: Associate Professor, IIT Bombay
+  email:
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -55,21 +45,10 @@
 
 - name: Goutam Nistala
   photo: goutam.png
-  duration:
-  info:
+  duration: Ph. D., 2006 - 10
+  info: Supply Chain Management at Amazon
   email:
-  number_educ: 1
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: Jeff Pearl
-  photo: jeff.png
-  duration:
-  info:
-  email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -77,10 +56,10 @@
 
 - name: Khushnuma Koita
   photo: khush.png
-  duration:
-  info:
+  duration: Ph. D., 2007 - 12
+  info: Development Specialist at Praxair
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -88,10 +67,32 @@
 
 - name: Yuki Kimura
   photo: yuki.png
-  duration:
-  info:
+  duration: Ph. D., 2007 - 12
+  info: Lead Designer and Visualization Architecture Lead at OSIsoft
   email:
-  number_educ: 1
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Ahmet Badur
+  photo: ahmet.png
+  duration: Ph. D., 2009 - 15
+  info: Sr Engineer at Illumina
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Kori Dunn
+  photo: kori.jpg
+  duration: Ph. D., 2009 - 15
+  info: Development Specialist at Praxair
+  email:
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -99,10 +100,10 @@
 
 - name: Santosh Koirala
   photo: santosh.png
-  duration:
-  info:
+  duration: Ph. D., 2009 - 15
+  info: Team Leader, Customer Support Engineer at OSIsoft
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -110,21 +111,21 @@
 
 - name: Shuyan Zhang
   photo: shuyan.png
-  duration:
-  info:
+  duration: Ph. D., 2009 - 16
+  info: Sr Engineer - Process Development at Illumina
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-- name: Ahmet Bahadur
-  photo: ahmet.png
-  duration:
-  info:
+- name: Charles Rutter
+  photo: charles.jpg
+  duration: Postdoc, 2014 - 16
+  info: Manager, Fermentation at Golden LEAF Biomanufacturing Training and Education Center
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -132,10 +133,10 @@
 
 - name: Jiewen Zhou
   photo: jiewen.png
-  duration: 2011 - 17
+  duration: Ph. D., 2011 - 17
   info:
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -143,11 +144,45 @@
 
 - name: Geethika Yalamanchili
   photo: geet1.png
-  duration: 2012 - 17
-  info:
+  duration: Ph. D., 2012 - 17
+  info: Computational Biologist at Twist Bioscience
   email:
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
+  education3:
+  education4:
+
+- name: Ehab Ammar
+  photo: ehab.jpg
+  duration: Postdoc, 2015 - 18
+  info: Postdoctoral Research Associate, Patel College of Global Sustainability, University of South Flordia
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Jing-jing Liu
+  photo: jj.jpg
+  duration: Postdoc, 2017 - 18
+  info: Senior Strain Engineering Scientist at Sugarlogix
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+
+- name: James Orr
+  photo: james1.png
+  duration: Ph. D., 2012 - 19
+  info: Patent Engineer at Cardinal Intellectual Property
+  email: jsorr3[at]illinois.edu
+  number_educ: 2
+  education1: B.S., Chemical Engineering, The Ohio State University, 2012
+  education2: Ph.D. in Chemical Engineering, UIUC, 2012 - 19
   education3:
   education4:
