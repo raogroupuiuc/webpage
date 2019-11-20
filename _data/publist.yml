@@ -7,6 +7,15 @@
     display: Biotechnology for Biofuels (2019)
   highlight: 0
 
+- title: The mechanism of bidirectional pH taxis in <i>Bacillus subtilis</i>
+  image:
+  description: ""
+  authors: Tohidifar P, Plutz MP, Ordal GW, Rao CV
+  link:
+    url: https://jb.asm.org/content/early/2019/10/29/JB.00491-19.abstract
+    display: Journal of Bacteriology (2019)
+  highlight: 0
+
 - title: Synergistic action of SPI-1 gene expression in <em>Salmonella enterica</em> serovar typhimurium through transcriptional crosstalk with the flagellar system
   image: spi1.png
   description: ""
