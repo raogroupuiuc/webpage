@@ -128,13 +128,13 @@
   education3:
   education4:
 
-- name: Selwan
+- name: Selwan Hamed
   photo: selwan.png
   info: Visiting Scholar, started 2018
   email: shamed[at]illinois.edu
-  number_educ: 1
-  education1:
-  education2:
+  number_educ: 2
+  education1: Master's Degree, Microbiology and Immunology, Faculty of Pharmacy, Helwan University, 2015
+  education2: Bachelor's Degree, Pharmaceutical Sciences, Faculty of Pharmacy, Helwan University, 2009
   education3:
   education4:
 
@@ -146,4 +146,14 @@
   education1: B.S., Chemical Engineering, University of Illinois at Chicago, 2019
   education2:
   education3:
+  education4:
+
+- name: Xihe Xu
+  photo: xihexu.jpeg
+  info: Undergraduate research student, started 2020
+  email: xihexu2[at]illinois.edu
+  number_educ: 3
+  education1: Major in Statistics, UIUC, Expected 2021
+  education2: Major in Molecular and Cellular Biology, UIUC, Expected 2021
+  education3: Minor in Computer Science, UIUC, Expected 2021
   education4:

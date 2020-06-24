@@ -1,3 +1,48 @@
+- title: Two tandem mechanisms control bimodal expression of the flagellar genes in <em>Salmonella enterica</em>
+  image:
+  description: ""
+  authors: Wang X, Koirala S, Aldridge PD, Rao CV
+  link:
+    url: https://jb.asm.org/content/jb/202/13/e00787-19
+    display: Journal of Bacteriology (2020)
+  highlight: 0
+
+- title: Metabolic engineering of <em>Parageobacillus thermoglucosidasius</em> for the efficient production of (2R, 3R)-butanediol
+  image:
+  description: ""
+  authors: Zhou J, Lian J, Rao CV
+  link:
+    url: https://link.springer.com/content/pdf/10.1007/s00253-020-10553-8.pdf
+    display: Applied Microbiology and Biotechnology (2020)
+  highlight: 0
+
+- title: Recent developments in pretreatment technologies on lignocellulosic biomass - Effect of key parameters, technological improvements, and challenges
+  image: review_2020.jpg
+  description: ""
+  authors: Bhatia SK, Jagtap SS, Bedekar AA, Bhatia RK, Patel AK, Pant D, Banu JR, Rao CV, Kim YG, Yang YH
+  link:
+    url: https://link.springer.com/article/10.1186/s13068-019-1586-5
+    display: Bioresource Technology (2020)
+  highlight: 1
+
+- title: The mechanism of bidirectional pH taxis in <i>Bacillus subtilis</i>
+  image: phtaxis.jpg
+  description: ""
+  authors: Tohidifar P, Plutz MP, Ordal GW, Rao CV
+  link:
+    url: https://jb.asm.org/content/early/2019/10/29/JB.00491-19
+    display: Journal of Bacteriology (2020)
+  highlight: 1
+
+- title: Characterization of the GH16 and GH17 laminarinases from <em>Vibrio breoganii </em>1C10
+  image:
+  description: ""
+  authors: Badur AH, Ammar EM, Yalamanchili G, Hehemann JH, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-019-10243-0
+    display: Applied Microbiology and Biotechnology (2020)
+  highlight: 0
+
 - title: Production of galactitol from galactose by the oleaginous yeast <em>Rhodosporidium toruloides</em> IFO0880
   image:
   description: ""
@@ -5,15 +50,6 @@
   link:
     url: https://link.springer.com/article/10.1186/s13068-019-1586-5
     display: Biotechnology for Biofuels (2019)
-  highlight: 0
-
-- title: The mechanism of bidirectional pH taxis in <i>Bacillus subtilis</i>
-  image:
-  description: ""
-  authors: Tohidifar P, Plutz MP, Ordal GW, Rao CV
-  link:
-    url: https://jb.asm.org/content/early/2019/10/29/JB.00491-19.abstract
-    display: Journal of Bacteriology (2019)
   highlight: 0
 
 - title: Synergistic action of SPI-1 gene expression in <em>Salmonella enterica</em> serovar typhimurium through transcriptional crosstalk with the flagellar system
@@ -57,8 +93,8 @@
   description: ""
   authors: Dinh HV, Suthers PF, Chan SHJ, Shen Y, Xiao T, Deewan A, Jagtap SS, Rabinowitz JD, Rao CV, Zhao H, Maranas CD
   link:
-    url: https://www.biorxiv.org/content/10.1101/594846v1.abstract
-    display: BioRxiv (2019)
+    url: https://www.sciencedirect.com/science/article/pii/S2214030119300124
+    display: Metabolic Engineering Communications (2019)
   highlight: 0
 
 - title: Driving the expression of the Salmonella enterica sv Typhimurium flagellum using flhDC from <em>Escherichia coli</em> results in key regulatory and cellular differences
