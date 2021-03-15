@@ -55,11 +55,11 @@
   photo: payman.png
   info: Postdoctoral Research Associate, started 2019
   email: tohidif2[at]illinois.edu
-  number_educ: 2
-  education1: B.S., Chemical Engineering, Sharif University of Technology, 2011
-  education2: Ph.D. in Chemical Engineering, UIUC, 2011 - 19
-  education3:
-  education4:
+  number_educ: 4
+  education1: Research focus - 1) Genetic tool development for metabolic engineering of oleaginous yeasts (e.g. <em>Yarrowia lipolytica</em> and <em>Rhodosporidium toruloides</em>) for production of value-added metabolites.
+  education2: Research focus - 2) Mechanism of lipogenesis in <em>Y. lipolytica</em>.
+  education3: Research focus - 3) Molecular mechanisms for sensing unconventional chemoeffectors, such as pH, alcohols, aromatics, and DNA in <em>Bacillus subtilis</em> chemotaxis. 
+  education4: Ph.D. in Chemical Engineering, UIUC, 2011 - 19
 
 - name: Xiaoyi Wang
   photo: xiaoyi.jpg
