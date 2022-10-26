@@ -13,7 +13,7 @@ Key areas of research:
 1. [Chemotaxis](#chemotaxis)
 2. [Biofuel and bioproducts](#Oleaginous yeast)
 3. [Methanotrops](#Methanotrops)
-4. [Virulence](#virulence)
+4. [Microbial Food](#microbial food)
 5. [Plastic degradation](#plastics degradation)
 6. [Computational biology](#computational biology)
 
@@ -33,9 +33,9 @@ We have worked with different yeasts like <i> Yarrowia lipolytica</i>, <i> Rhodo
 
 Methane emission into the atmosphere has negative consequences, as it is a greenhouse gas with approximately 20 times the impact of carbon dioxide. Methanotrophs use methane as their sole carbon source and convert methane into cellular components or transform it into valuable products. Biological processes utilizing these microorganisms may provide a more economical alternative to existing gas-to liquid conversion processes (e.g. Fischer-Tropsch), because they are less capital intensive, do not require extreme operating conditions, and can potentially be deployed at smaller scale to capture remote gas.   Our lab is working on production of value added chemicals using methane as a substrate. Our main goal is to optimize mass transfer rate and methane uptake by methanotrophs using lab scale bioreactors to convert maximum methane into biomass and valuable products.
 
-### Virulence
+### Microbial Food
 
-Salmonella is the causative agent for a wide range of diseases in humans, including gastroenteritis and enteric fever. Worldwide, Salmonella is estimated to cause over sixteen million cases of typhoid fever, resulting in approximately six hundred thousand deaths, and over one billion cases of acute gastroenteritis, resulting in approximately three million deaths, each year. Over five hundred genes in Salmonella are directly involved in pathogenesis. Yet, only a subset of these is expressed at a given time. Currently, an integrated model for differential gene expression is lacking. To address this problem, our lab in collaboration with Jim Slauch investigating how Salmonella dynamically regulates gene expression during the different phases of the infection cycle. By characterizing how these genes are coordinately expressed and regulated, we aim to understand the infection process and, more importantly, discover novel targets for antibiotics.
+"Beyond its potential for supporting extended human endeavors in space, bioengineered microbial-based food could also open opportunities to address global food security and immediately impact Earth’s food industry." https://doi.org/10.1038/s41467-022-33974-7
 
 ### Plastics degradation
 
