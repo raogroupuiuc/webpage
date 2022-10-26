@@ -1,3 +1,69 @@
+- name: Payman Tohidifar
+  photo: payman.png
+  duration: started 2022
+  info: Synthetic Biology Scientist at BP Biosciences Center
+  email: 
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+  education4: 
+
+- name: Xiaoyi Wang
+  photo: xiaoyi.jpg
+  duration: started 2021
+  info: ?
+  email: wang365[at]illinois.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Sichong Pei
+  photo: sichong.png
+  duration: started 2022
+  info: Fermentation Engineer at Genomatica
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4:
+
+- name: Anshu Deewan
+  photo: Anshu.jpg
+  duration: started 2022
+  info: Bioinformatics Scientist at NIAID Collaborative
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4:
+
+- name: Girija Bodhankar
+  photo: girija.jpeg
+  duration: started 2022
+  info: Research Scientist at Abcellera
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Cara Sarver
+  photo: cara.jpg
+  duration: started 2021
+  info: Scientific Informatics Analyst at Accenture
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
 - name: Tasha Desai
   photo: tasha.png
   duration: Ph. D., 2004 - 09
