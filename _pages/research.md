@@ -23,7 +23,7 @@ Key areas of research:
 ### Chemotaxis
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/chemotaxis.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Our lab in collaboration with George Ordal is investigating chemotaxis in the model Gram-positive bacterium <i>Bacillus subtilis</i>. While <i>Escherichia coli</i> has long been the paradigm for bacterial chemotaxis, the pathway architecture is not conserved in other species of bacteria. Interestingly, <i>B. subtilis</i> behaves in an identical manner to <i>E. coli</i> with regards to chemotaxis. The pathways in the two bacteria also have homologous proteins. Yet, how these proteins are “wired” to one another in the two pathways is entirely different. We seek to understand why these two pathways are “wired” differently and the extent of degeneracy in the basic design.
+Our lab collaborated with George Ordal to investigate chemotaxis in the model Gram-positive bacterium <i>Bacillus subtilis</i>. While <i>Escherichia coli</i> has long been the paradigm for bacterial chemotaxis, the pathway architecture is not conserved in other species of bacteria. Interestingly, <i>B. subtilis</i> behaves in an identical manner to <i>E. coli</i> with regards to chemotaxis. The pathways in the two bacteria also have homologous proteins. Yet, how these proteins are “wired” to one another in the two pathways is entirely different. We seek to understand why these two pathways are “wired” differently and the extent of degeneracy in the basic design.
 
 ### Oleaginous yeast
 
@@ -35,7 +35,7 @@ Methane emission into the atmosphere has negative consequences, as it is a green
 
 ### Microbial Food
 
-"Beyond its potential for supporting extended human endeavors in space, bioengineered microbial-based food could also open opportunities to address global food security and immediately impact Earth’s food industry." https://doi.org/10.1038/s41467-022-33974-7
+Other than oleaginous products, recently we have shifted our focus towards a refined version of what humanity has done with yeast for thousands of years: brewing and fermentation for food. "Beyond its potential for supporting extended human endeavors in space, bioengineered microbial-based food could also open opportunities to address global food security and immediately impact Earth’s food industry." https://doi.org/10.1038/s41467-022-33974-7
 
 ### Plastics degradation
 
