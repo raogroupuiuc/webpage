@@ -187,7 +187,7 @@
   education3:
   education4:
   
-  - name: Cara Sarver
+- name: Cara Sarver
   photo: cara.jpg
   duration: started 2021
   info: Scientific Informatics Analyst at Accenture
@@ -198,7 +198,7 @@
   education3:
   education4:
   
-  - name: Xiaoyi Wang
+- name: Xiaoyi Wang
   photo: xiaoyi.jpg
   duration: started 2021
   info: Somewhere in China
@@ -209,7 +209,7 @@
   education3:
   education4:
   
-  - name: Payman Tohidifar
+- name: Payman Tohidifar
   photo: payman.png
   duration: started 2022
   info: Synthetic Biology Scientist at BP Biosciences Center
@@ -220,7 +220,7 @@
   education3: 
   education4: 
   
-  - name: Girija Bodhankar
+- name: Girija Bodhankar
   photo: girija.jpeg
   duration: started 2022
   info: Research Scientist at Abcellera
@@ -231,7 +231,7 @@
   education3:
   education4:
   
-  - name: Anshu Deewan
+- name: Anshu Deewan
   photo: Anshu.jpg
   duration: started 2022
   info: Bioinformatics Scientist at NIAID Collaborative
@@ -242,7 +242,7 @@
   education3: 
   education4:
   
-  - name: Sichong Pei
+- name: Sichong Pei
   photo: sichong.png
   duration: started 2022
   info: Fermentation Engineer at Genomatica
