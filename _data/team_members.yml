@@ -76,7 +76,7 @@
   education4:
 
 - name: Cindy Yang
-  photo: 
+  photo: dummy.png
   info: Graduate student, started 2022
   email: cindy4[at]ilinois.edu
   number_educ: 1
@@ -106,7 +106,7 @@
   education4:
 
 - name: Lydia Taylor
-  photo: 
+  photo: dummy.png
   info: Undergraduate research student, started 2022
   email: lct2[at]illinois.edu
   number_educ: 
