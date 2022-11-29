@@ -52,6 +52,8 @@ Our lab studies how cells process information. We are especially interested in u
 
 We are also engineering bacteria and yeast for the production of biofuels. Specifically, our goal is to optimize the uptake and metabolism of C5/C6 sugars in bacteria by developing new genetic tools.
 
+Our group also has a focus on other feedstocks such as C1 (methane, formate), C2 (acetate), and CN (aliphatic polymers like polyethylene) for remediation and valorization purposes.
+
 We are grateful for funding from Illinois, Department of Energy and Shell.
 
 <figure class="fourth">

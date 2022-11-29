@@ -7,15 +7,6 @@
   education2: Ph.D. in Chemical Engineering at University of Wisconsin, Madison with <a href="https://sites.engineering.ucsb.edu/~jbraw"> Prof. J. B. Rawlings</a>
   education3:  Postdoctoral research fellow at Howard Hughes Medical Institute, University of California, Berkeley with <a href="http://genomics.lbl.gov"> Prof. A. P. Arkin</a>
 
-- name: George W. Ordal
-  photo: ordal.png
-  info: Professor Emeritus of Biochemistry
-  email: ordal[at]illinois.edu
-  number_educ: 3
-  education1: A.B., Harvard University
-  education2: Ph.D., Standford University
-  education3: Postdoc., University of Wisconsin, Madison
-
 - name: Hannah Walukiewicz
   photo: Hanna.jpg
   info: Research Scientist
@@ -23,13 +14,6 @@
   number_educ: 2
   education1:
   education2:
-
-- name: Matthew J. Plutz
-  photo: matt.jpg
-  info: Research Scientist
-  email: plutz[at]illinois.edu
-  number_educ: 1
-  education1:
 
 - name: Sujit Jagtap
   photo: sujit.jpg
@@ -47,63 +31,6 @@
   email: bedekar3[at]]illinois.edu
   number_educ: 1
   education1: Ph.D. in Biotechnology, Shivaji University, India, 2012 - 16
-  education2:
-  education3:
-  education4:
-
-- name: Payman Tohidifar
-  photo: payman.png
-  info: Postdoctoral Research Associate, started 2019
-  email: tohidif2[at]illinois.edu
-  number_educ: 4
-  education1: Research focus - 1) Genetic tool development for metabolic engineering of oleaginous yeasts (e.g. <em>Yarrowia lipolytica</em> and <em>Rhodosporidium toruloides</em>) for production of value-added metabolites.
-  education2: Research focus - 2) Mechanism of lipogenesis in <em>Y. lipolytica</em>.
-  education3: Research focus - 3) Molecular mechanisms for sensing unconventional chemoeffectors, such as pH, alcohols, aromatics, and DNA in <em>Bacillus subtilis</em> chemotaxis. 
-  education4: Ph.D. in Chemical Engineering, UIUC, 2011 - 19
-
-- name: Xiaoyi Wang
-  photo: xiaoyi.jpg
-  info: Ph.D. Candidate, started 2014
-  email: wang365[at]illinois.edu
-  number_educ: 2
-  education1: Research focus - Sugar utilization and regulation in <em>Escherichia coli</em>, flagellar gene expression and regulation in <em>Salmonella enterica</em>, and fatty acid and lipid production and optimization in <em>Yarrowia lipolytica</em>.
-  education2: B.S., Chemical Engineering, University of Wisconsin Madison, 2014
-  education3:
-  education4:
-
-- name: Sichong Pei
-  photo: sichong.png
-  info: Ph.D. Candidate, started 2015
-  email: pei3[at]illinois.edu
-  number_educ: 1
-  education1: B.S., Chemical Engineering, University of Wisconsin Madison, 2015
-
-- name: Anshu Deewan
-  photo: Anshu.jpg
-  info: Ph.D. Candidate, started 2016
-  email: deewan2[at]illinois.edu
-  number_educ: 3
-  education1: Research focus - Bioinformatics and Computational Biology, studying the ability of cells to get "fat"
-  education2: B.Tech., Chemical Engineering, Indian Institute of Technology Delhi, 2012
-  education3: Product Development Manager, Homecare, Unilever R&D, 2012 - 16
-  education4:
-
-- name: Girija Bodhankar
-  photo: girija.jpeg
-  info: Ph.D. Candidate, started 2016
-  email: bodhank2[at]illinois.edu
-  number_educ: 2
-  education1: Research focus - Chemotaxis, why <em>Subtilis</em> swims away from some chemicals
-  education2: B.Tech., Institute of Chemical Technology, Mumbai, 2016
-  education3:
-  education4:
-
-- name: Cara Sarver
-  photo: cara.jpg
-  info: Graduate student, started 2018
-  email: csarver2[at]illinois.edu
-  number_educ: 1
-  education1: B.S., Biological Systems Engineering, Virginia Tech., 2017
   education2:
   education3:
   education4:
@@ -128,16 +55,6 @@
   education3:
   education4:
 
-- name: Selwan Hamed
-  photo: selwan.png
-  info: Visiting Scholar, started 2018
-  email: shamed[at]illinois.edu
-  number_educ: 2
-  education1: Master's Degree, Microbiology and Immunology, Faculty of Pharmacy, Helwan University, 2015
-  education2: Bachelor's Degree, Pharmaceutical Sciences, Faculty of Pharmacy, Helwan University, 2009
-  education3:
-  education4:
-
 - name: Ebin Joseph
   photo: Ebin.jpg
   info: Graduate student, started 2019
@@ -148,12 +65,52 @@
   education3:
   education4:
 
-- name: Xihe Xu
-  photo: xihexu.jpeg
-  info: Undergraduate research student, started 2020
-  email: xihexu2[at]illinois.edu
-  number_educ: 3
-  education1: Major in Statistics, UIUC, Expected 2021
-  education2: Major in Molecular and Cellular Biology, UIUC, Expected 2021
-  education3: Minor in Computer Science, UIUC, Expected 2021
+- name: Joshua Ye
+  photo: jy.jpg
+  info: Graduate student, started 2021
+  email: joshuay5[at]illinois.edu
+  number_educ: 1
+  education1: B.S., Chemical Engineering, University of Texas at Austin, 2019
+  education2:
+  education3:
+  education4:
+
+- name: Cindy Yang
+  photo: dummy.png
+  info: Graduate student, started 2022
+  email: cindy4[at]ilinois.edu
+  number_educ: 2
+  education1: B.S. Chemical Engineering, University of Southern Florida, 2022
+  education2: B.A. Anthropology, University of Southern Florida, 2022
+  education3:
+  education4:
+  
+- name: Tony Quang Pham
+  photo: tp.png
+  info: Graduate student, started 2022
+  email: thanhp2[at]illinois.edu
+  number_educ: 1
+  education1: B.S. Chemical Engineering, Texas Tech University, 2022
+  education2:
+  education3:
+  education4:
+  
+- name: Keertna Bhuvan
+  photo: kb.png
+  info: Graduate student, started 2022
+  email: kbhuvan2[at]illinois.edu
+  number_educ: 1
+  education1: B.S. Chemical Engineering, University of California Irvine, 2022
+  education2:
+  education3:
+  education4:
+
+- name: Lydia Taylor
+  photo: lt.jpg
+  info: Undergraduate research student, started 2022
+  email: lct2[at]illinois.edu
+  number_educ: 1
+  education1: Major in Materials Science & Engineering , UIUC, Expected 2024
+  education2: 
+  education3:
   education4:
