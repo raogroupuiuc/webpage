@@ -13,8 +13,8 @@ Key areas of research:
 1. [Chemotaxis](#chemotaxis)
 2. [Biofuel and bioproducts](#Oleaginous yeast)
 3. [Methanotrops](#Methanotrops)
-4. [Microbial Food](#microbial food)
-5. [Plastic degradation](#plastics degradation)
+4. [Microbial food](#microbial food)
+5. [Plastic conversion](#plastics conversion)
 6. [Computational biology](#computational biology)
 
 
@@ -33,9 +33,9 @@ We have worked with different yeasts like <i> Yarrowia lipolytica</i>, <i> Rhodo
 
 Methane emission into the atmosphere has negative consequences, as it is a greenhouse gas with approximately 20 times the impact of carbon dioxide. Methanotrophs use methane as their sole carbon source and convert methane into cellular components or transform it into valuable products. Biological processes utilizing these microorganisms may provide a more economical alternative to existing gas-to liquid conversion processes (e.g. Fischer-Tropsch), because they are less capital intensive, do not require extreme operating conditions, and can potentially be deployed at smaller scale to capture remote gas.   Our lab is working on production of value added chemicals using methane as a substrate. Our main goal is to optimize mass transfer rate and methane uptake by methanotrophs using lab scale bioreactors to convert maximum methane into biomass and valuable products.
 
-### Microbial Food
+### Microbial food
 
-Other than oleaginous products, recently we have shifted our focus towards a refined version of what humanity has done with yeast for thousands of years: brewing and fermentation for food. "Beyond its potential for supporting extended human endeavors in space, bioengineered microbial-based food could also open opportunities to address global food security and immediately impact Earth’s food industry." https://doi.org/10.1038/s41467-022-33974-7
+The goal of this project is to develop an on-site food generation system using only air, water, and electricity as the inputs. To achieve this goal, we are exploring acetate as a microbial substrate production, because it can be electrochemically produced from CO2, is soluble, and readily metabolized by many microbes. We specifically seek to develop a platform whereby acetate can be fed to GRAS (generally recognized as safe) microbes to manufacture biomass with tailorable ratios of protein, carbohydrates, fat, and fiber fit for human consumption. Our main goal is to use metabolic engineering in oleaginous yeasts (<i>Yarrowia lipolytica </i> and <i>Rhodosporidium toruloides</i>) and algae (<i>Chlorella vulgaris</i> and <i>Chlamydomonas reinhardtii</i>) to improve and manipulate the conversion efficiency of acetate as a carbon source to macronutrients. These hosts have unique metabolic pathways enabling them to grow on acetate and act as a cellular factory for valuable chemicals and fuels. Genetic engineering can also be used to implement pathways into model yeast strains like Bakers' yeast for vitamin and flavor synthesis as additives for palatable food.  This system is designed to create a sustainable production of food with no waste, better process efficiency, and less power usage.
 
 ### Plastics degradation
 
@@ -46,4 +46,6 @@ In the Rao lab, we work on techniques to engineer proteins, organisms, and micro
 
 ### Computational biology
 
-We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms.
+We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms. One of our new ventures is using fluid dynamics to determine how oxygen availability affects isogenic heterogeneity for fermentation scale-up.
+
+
