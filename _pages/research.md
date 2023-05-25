@@ -13,8 +13,8 @@ Key areas of research:
 1. [Chemotaxis](#chemotaxis)
 2. [Biofuel and bioproducts](#Oleaginous yeast)
 3. [Methanotrops](#Methanotrops)
-4. [Microbial Food](#microbial food)
-5. [Plastic degradation](#plastics degradation)
+4. [Microbial food](#microbial food)
+5. [Plastic conversion](#plastics conversion)
 6. [Computational biology](#computational biology)
 
 ### Chemotaxis
@@ -32,9 +32,9 @@ Methane emission into the atmosphere has negative consequences, as it is a green
 
 ### Microbial Food
 
-Other than oleaginous products, recently we have shifted our focus towards a refined version of what humanity has done with yeast for thousands of years: brewing and fermentation for food. "Beyond its potential for supporting extended human endeavors in space, bioengineered microbial-based food could also open opportunities to address global food security and immediately impact Earth’s food industry." https://doi.org/10.1038/s41467-022-33974-7
+The goal of this project is to develop an on-site food generation system using only air, water, and electricity as the inputs. To achieve this goal, we are exploring acetate as a microbial substrate production, because it can be electrochemically produced from CO2, is soluble, and readily metabolized by many microbes. We specifically seek to develop a platform whereby acetate can be fed to GRAS (generally recognized as safe) microbes to manufacture biomass with tailorable ratios of protein, carbohydrates, fat, and fiber fit for human consumption. Our main goal is to use metabolic engineering in oleaginous yeasts (<i>Yarrowia lipolytica </i> and <i>Rhodosporidium toruloides</i>) and algae (<i>Chlorella vulgaris</i> and <i>Chlamydomonas reinhardtii</i>) to improve and manipulate the conversion efficiency of acetate as a carbon source to macronutrients. These hosts have unique metabolic pathways enabling them to grow on acetate and act as a cellular factory for valuable chemicals and fuels. Genetic engineering can also be used to implement pathways into model yeast strains like Bakers' yeast for vitamin and flavor synthesis as additives for palatable food.  This system is designed to create a sustainable production of food with no waste, better process efficiency, and less power usage.
 
-### Plastics degradation
+### Plastics conversion
 
 One of the major issues faced by the modern world is the threat presented by plastic pollution. Only approximately 30% of all 8.5 billion tons of plastics ever produced is still in use, with the remainder ending up in landfill or the environment, being incinerated, or recycled into secondary and tertiary grade polymers. At best ,post-consumer plastic is an eyesore and uses up land that could be used for more lucrative purposes. When burned, it releases toxic volatile compounds that cause illness in humans and wildlife when inhaled. In the environment it kills thousands of wildlife when they ingest or become entangled in it, harbors flora and fauna that can float to new environments where they can become invasive, and can trap toxic compounds that can biomagnify as organisms of succeedingly higher trophic levels consume lower level organisms. Plastics are prized for their stability and durability in their respective applications; these same characteristics render them difficult to degrade under normal environmental circumstances. Coupled with their cheap and easy production capacity, and their utility in single use applications, the scale of plastic pollution has reached levels never before seen and presents a serious issue to the health of our cities and environment.
 
@@ -43,6 +43,6 @@ In the Rao lab, we work on techniques to engineer proteins, organisms, and micro
 
 ### Computational biology
 
-We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms. One of our newer ventures is the simulation of nutrient availibility (namely oxygen) via fluid dynamics.
+We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms. One of our newer ventures is using fluid dynamics to investigate isogenic heterogeneity arising from nutrient availability for fermentation scale-up.
 
 
