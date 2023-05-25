@@ -17,9 +17,6 @@ Key areas of research:
 5. [Plastic degradation](#plastics degradation)
 6. [Computational biology](#computational biology)
 
-
-
-
 ### Chemotaxis
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/chemotaxis.jpg){: style="width: 300px; float: right; border: 10px"}
 
@@ -46,4 +43,6 @@ In the Rao lab, we work on techniques to engineer proteins, organisms, and micro
 
 ### Computational biology
 
-We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms.
+We use mathematical modeling and bioinformatics as tools to complement experimental research in our lab. Our objective is to create simple and intuitive models for biological processes that can further guide our understanding of the systems and help with experimental design. We have tools to generate and analyze different types of omics data for bacterial and yeast systems, to generate insights into cellular mechanisms. One of our newer ventures is the simulation of nutrient availibility (namely oxygen) via fluid dynamics.
+
+
