@@ -23,7 +23,7 @@
   link:
     url: https://journals.asm.org/doi/10.1128/jb.00441-21
     display: American Society of Microbiology (2022)
-  highlight: 1
+  highlight: 0
   
  - title: Identification and analysis of sugar transporters capable of co-transporting glucose and xylose simultaneously
   image:
@@ -41,7 +41,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s00253-021-11549-8
     display: Applied Microbiology and Biotechnology (2021)
-  highlight: 1
+  highlight: 0
   
  - title: Metabolic engineering of the oleaginous yeast Yarrowia lipolytica PO1f for production of erythritol from glycerol
   image:
@@ -50,7 +50,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s00253-021-11394-9
     display: Applied Genetics and Molecular Biotechnology (2021)
-  highlight: 1
+  highlight: 0
   
  - title: Metabolic engineering of the oleaginous yeast Yarrowia lipolytica PO1f for production of erythritol from glycerol
   image:
@@ -59,7 +59,7 @@
   link:
     url: https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-021-02039-0
     display: Biotechnology for Biofuels and Bioproducts (2021)
-  highlight: 1
+  highlight: 0
 
 - title: Two tandem mechanisms control bimodal expression of the flagellar genes in <em>Salmonella enterica</em>
   image:
