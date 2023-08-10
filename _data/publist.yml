@@ -1,4 +1,4 @@
-- title: Emulsion-based evolution of <em>Escherichia coli</em> for higher growth yield on D-xylose identifies central role of cyclic AMP
+- title: Emulsion-based evolution of <i>Escherichia coli</i> for higher growth yield on D-xylose identifies central role of cyclic AMP
   image:
   description: ""
   authors: Orr J, Zen E, Wang X, Rao CV
@@ -7,7 +7,7 @@
     display: Systems Microbiology and Biomanufacturing (2022)
   highlight: 0
   
-- title: System analysis of Lipomyces starkeyi during growth on various plant-based sugars
+- title: System analysis of <em>Lipomyces starkeyi<em> during growth on various plant-based sugars
   image:
   description: ""
   authors: Deewan A, Liu JJ, Jagtap SS, Yun EJ, Walukiewicz W, Jin YS,  Rao CV
@@ -16,7 +16,7 @@
     display: Applied Microbiology and Biotechnology (2022)
   highlight: 0
   
-- title: Characterization of Opposing Responses to Phenol by <em>Bacillus subtilis</em> Chemoreceptors
+- title: Characterization of Opposing Responses to Phenol by <i>Bacillus subtilis</i> Chemoreceptors
   image:
   description: ""
   authors: Bodhankar G, Tohidifar P, Foust Z, Ordal G, Rao CV
@@ -43,16 +43,16 @@
     display: Applied Microbiology and Biotechnology (2021)
   highlight: 0
   
-- title: Metabolic engineering of the oleaginous yeast Yarrowia lipolytica PO1f for production of erythritol from glycerol
+- title: Genome-wide transcriptional regulation in <i>Saccharomyces cerevisiae</i> in response to carbon dioxide
   image:
   description: ""
-  authors: Liu JJ, Woodruff W, Deewan A, Jagtap SS, Yun EJ, Walukiewicz HE, Jin YS, Rao CV
+  authors: Tan LR, Liu JJ, Woodruff W, Deewan A, Jagtap SS, Yun EJ, Walukiewicz HE, Jin YS, Rao CV
   link:
     url: https://link.springer.com/article/10.1007/s00253-021-11394-9
     display: Applied Genetics and Molecular Biotechnology (2021)
   highlight: 0
   
-- title: Metabolic engineering of the oleaginous yeast Yarrowia lipolytica PO1f for production of erythritol from glycerol
+- title: Metabolic engineering of the oleaginous yeast <i>Yarrowia lipolytica</i> PO1f for production of erythritol from glycerol
   image:
   description: ""
   authors: Jagtap SS, Bedekar AA, Singh V, Jin YS, Rao CV
@@ -70,7 +70,7 @@
     display: Journal of Bacteriology (2020)
   highlight: 0
 
-- title: Metabolic engineering of <em>Parageobacillus thermoglucosidasius</em> for the efficient production of (2R, 3R)-butanediol
+- title: Metabolic engineering of <i>Parageobacillus thermoglucosidasius</i> for the efficient production of (2R, 3R)-butanediol
   image:
   description: ""
   authors: Zhou J, Lian J, Rao CV
