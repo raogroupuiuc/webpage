@@ -1,6 +1,6 @@
 - name: Christopher V. Rao
   photo: chris.jpg
-  info: Professor
+  info: Ray and Beverly Mentzer Professor
   email: cvrao[at]illinois.edu
   number_educ: 3
   education1: B.S. in Chemical Engineering at Carnegie Mellon University
@@ -23,7 +23,6 @@
   education1: Research focus -  Engineering non-model yeast for the production of fuels and chemicals, Regulation of metabolism in yeast
   education2: Ph.D. in Chemical Engineering, Konkuk University, Seoul, South Korea, 2010 - 15
   education3: Visiting Scholar, ChBE, UIUC, 2012 - 14
-
 
 - name: Ashwini Bedekar
   photo: ashwini.jpg
@@ -105,9 +104,30 @@
   education3:
   education4:
 
+- name: Fakhraddin Eminli
+  photo: dummy.png
+  info: Graduate student, 2022-
+  email: feminli2[at]illinois.edu
+  number_educ: 1
+  education1: B.S. Chemical Engineering, Baku Higher Oil School, 2023
+  education2:
+  education3:
+  education4:
+
+- name: Afia Subhani
+  photo: as.png
+  info: Graduate student, 2023-
+  email: afias2[at]illinois.edu
+  number_educ: 1
+  education1: B.S. Chemical Engineering, Bangladesh University of Engineering and Technology, 2022
+  education2:
+  education3:
+  education4:
+  
+
 - name: Lydia Taylor
   photo: lt.jpg
-  info: Undergraduate research student, 2022-
+  info: Undergraduate research student, 2023-
   email: lct2[at]illinois.edu
   number_educ: 1
   education1: Major in Materials Science & Engineering , UIUC, Expected 2024
