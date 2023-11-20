@@ -1,4 +1,4 @@
-- title: Emulsion-based evolution of <em>Escherichia coli</em> for higher growth yield on D-xylose identifies central role of cyclic AMP
+- title: Emulsion-based evolution of <i>Escherichia coli</i> for higher growth yield on D-xylose identifies central role of cyclic AMP
   image:
   description: ""
   authors: Orr J, Zen E, Wang X, Rao CV
@@ -7,13 +7,58 @@
     display: Systems Microbiology and Biomanufacturing (2022)
   highlight: 0
   
-- title: System analysis of Lipomyces starkeyi during growth on various plant-based sugars
+- title: System analysis of <em>Lipomyces starkeyi<em> during growth on various plant-based sugars
   image:
   description: ""
   authors: Deewan A, Liu JJ, Jagtap SS, Yun EJ, Walukiewicz W, Jin YS,  Rao CV
   link:
     url: https://link.springer.com/article/10.1007/s00253-022-12084-w
     display: Applied Microbiology and Biotechnology (2022)
+  highlight: 0
+  
+- title: Characterization of Opposing Responses to Phenol by <i>Bacillus subtilis</i> Chemoreceptors
+  image:
+  description: ""
+  authors: Bodhankar G, Tohidifar P, Foust Z, Ordal G, Rao CV
+  link:
+    url: https://journals.asm.org/doi/10.1128/jb.00441-21
+    display: American Society of Microbiology (2022)
+  highlight: 0
+  
+- title: Identification and analysis of sugar transporters capable of co-transporting glucose and xylose simultaneously
+  image:
+  description: ""
+  authors: Kuanyshev N, Deewan A, Jagtap SS, Liu JJ, Selvam B, Chen LQ, Shukla D, Rao CV, Jin YS
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/biot.202100238
+    display: Biotechnology Journal (2022)
+  highlight: 0
+  
+- title: Integrating transcriptomic and metabolomic analysis of the oleaginous yeast Rhodosporidium toruloides IFO0880 during growth under different carbon sources
+  image:
+  description: ""
+  authors: Jagtap SS, Deewan A, Liu JJ, Walukiewicz HE, Yun EJ, Jin YS, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-021-11549-8
+    display: Applied Microbiology and Biotechnology (2021)
+  highlight: 0
+  
+- title: Genome-wide transcriptional regulation in <i>Saccharomyces cerevisiae</i> in response to carbon dioxide
+  image:
+  description: ""
+  authors: Tan LR, Liu JJ, Woodruff W, Deewan A, Jagtap SS, Yun EJ, Walukiewicz HE, Jin YS, Rao CV
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-021-11394-9
+    display: Applied Genetics and Molecular Biotechnology (2021)
+  highlight: 0
+  
+- title: Metabolic engineering of the oleaginous yeast <i>Yarrowia lipolytica</i> PO1f for production of erythritol from glycerol
+  image:
+  description: ""
+  authors: Jagtap SS, Bedekar AA, Singh V, Jin YS, Rao CV
+  link:
+    url: https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-021-02039-0
+    display: Biotechnology for Biofuels and Bioproducts (2021)
   highlight: 0
 
 - title: Two tandem mechanisms control bimodal expression of the flagellar genes in <em>Salmonella enterica</em>
@@ -25,7 +70,7 @@
     display: Journal of Bacteriology (2020)
   highlight: 0
 
-- title: Metabolic engineering of <em>Parageobacillus thermoglucosidasius</em> for the efficient production of (2R, 3R)-butanediol
+- title: Metabolic engineering of <i>Parageobacillus thermoglucosidasius</i> for the efficient production of (2R, 3R)-butanediol
   image:
   description: ""
   authors: Zhou J, Lian J, Rao CV
@@ -122,7 +167,7 @@
   link:
     url: https://www.nature.com/articles/s41598-018-35005-2
     display: Scientific Reports (2018)
-  highlight: 1
+  highlight: 0
 
 - title: Microbial conversion of xylose into useful bioproducts
   image: 2018_sujit.png
@@ -131,7 +176,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s00253-018-9294-9
     display: Applied Microbiology and Biotechnology (2018)
-  highlight: 1
+  highlight: 0
 
 - title: Regulation of metabolism in <em>Escherichia coli</em> during growth on mixtures of the non-glucose sugars - arabinose, lactose, and xylose
   image:
