@@ -105,8 +105,8 @@
   education4:
 
 - name: Fakhraddin Eminli
-  photo: dummy.png
-  info: Graduate student, 2022-
+  photo: men.jpg
+  info: Graduate student, 2023-
   email: feminli2[at]illinois.edu
   number_educ: 1
   education1: B.S. Chemical Engineering, Baku Higher Oil School, 2023
@@ -127,7 +127,7 @@
 
 - name: Lydia Taylor
   photo: lt.jpg
-  info: Undergraduate research student, 2023-
+  info: Undergraduate research student, 2022-
   email: lct2[at]illinois.edu
   number_educ: 1
   education1: Major in Materials Science & Engineering , UIUC, Expected 2024
