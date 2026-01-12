@@ -1,8 +1,20 @@
+- date: August 2025
+  headline: "Caroline passed her qualifying exam"
+
+- date: April 2025
+  headline: "Cindy and Keertna passed their prelims. Weeeee!"
+
+- date: October 2024
+  headline: "Thanh passed his prelim. Congratulations!"
+
+  - date: August 2024
+  headline: "Welcome to the lab Caroline E Christopherson"
+
 - date: April 2024
   headline: "Joshua passed his prelim. Congratulations!"
 
 - date: March 2024
-  headline: "William defended! Congratulations"
+  headline: "William defended! Congratulations and enjoy Sandia National Labs!"
 
 - date: Nov 2023
   headline: "Congratulations to Aswini Bedekar for the 2023 Innovator Award from the Association for Women in Science"
@@ -14,7 +26,7 @@
   headline: "Welcome to the lab: Fakhraddin Eminli and Afia Subhani"
 
 - date: Sept 2023
-  headline: "Thanh, Cindy, and Keertna passed their qualifying exams. Yay"
+  headline: "Thanh, Cindy, and Keertna passed their qualifying exams. Yay!"
   
 - date: Oct 2022
   headline: "Welcome to the lab: Thanh, Cindy, and Keertna. Lab is starting to look busy now!"
@@ -40,19 +52,19 @@
 - date: Apr 2021
   headline: "William and Danielle passed their prelims. Congratulations!"
   
-- date: 22 Feb 2021
+- date: 22. Feb 2021
   headline: "William <a href='https://genomicscience.energy.gov/pubs/2021abstracts/abstracts/Rao_Woodruff.pdf'>presented</a> at the 2021 Genomic Sciences Program Annual PI meeting. "
   
-- date: 20 Nov 2019
+- date: 20. Nov 2019
   headline: "Chris has been appointed as EBI Deputy Director."
 
-- date: 21 Oct 2019
+- date: 21. Oct 2019
   headline: "Welcome to the lab, Ebin!"
 
-- date: 25 Sept 2019
+- date: 25. Sept 2019
   headline: "Girija was awarded first place at the poster presentation at Microbial Early-career Researchers Association (microERA) Research Symposium. Congratulations to her!"
 
-- date: 28 Jul 2019
+- date: 28. Jul 2019
   headline: "Anshu and Girija featured in the 'List of Teachers Ranked as Excellent By Their Students' for their work as a TA in CHBE440, Process Control and Dynamics."
 
 - date: 28. Jun 2019
