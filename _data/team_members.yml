@@ -84,16 +84,6 @@
   education3:
   education4:
   
-- name: Tony Quang Pham
-  photo: tp.png
-  info: Graduate student, 2022-
-  email: thanhp2[at]illinois.edu
-  number_educ: 1
-  education1: B.S. Chemical Engineering, Texas Tech University, 2022
-  education2:
-  education3:
-  education4:
-  
 - name: Keertna Bhuvan
   photo: kb.png
   info: Graduate student, 2022-
@@ -134,3 +124,12 @@
   education3:
   education4:
 
+- name: Xue Xin Wu
+  photo: xuexin.jpg
+  info: Graduate student, 2025-
+  email: xuexinw2[at]illinois.edu
+  number_educ: 1
+  education1: B.S. Chemical and Biomolecular Engineering, John Hopkins University, 2025
+  education2:
+  education3:
+  education4:
